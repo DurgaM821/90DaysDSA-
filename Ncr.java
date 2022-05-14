@@ -1,3 +1,7 @@
+//input  n=10,r=6
+//output 210
+
+
 import java.util.Scanner;
 public class Main{
     public static int factorial(int num){
